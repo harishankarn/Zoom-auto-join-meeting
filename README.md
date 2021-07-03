@@ -1,5 +1,6 @@
 # zoom-auto-join-meeting
-This repository contains the tools and steps needed to automate zoom to automatically join a zoom meetings using the browser with crontab as its scheduler(If you want to directly join without the browser scroll to the bottom)
+This repository contains the tools and steps needed to automate zoom to automatically join a zoom meetings using the browser with crontab as its scheduler
+(If you want to directly join meetings without the browser scroll to the bottom)
 
 I'm new to python and shell, so if there are way I can learn to make the script any smaller or efficient, please do let me know.
 
