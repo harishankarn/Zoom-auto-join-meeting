@@ -8,5 +8,3 @@ Important note: I wrote this code with respect to a unix environment so it will 
 Please make sure to read the .pdf in zoom_auto completely and only after that to start working on it.
 
 Also, make sure to edit "usr" in every commands with your username.
-
-Thank you for using my scrpit
