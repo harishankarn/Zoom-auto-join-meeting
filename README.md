@@ -15,3 +15,5 @@ If you hate the idea of opening your webbrowser to join a zoom meeting then use 
 When i ran that code, my cpu usage skyrocketed because python interpreter kept running in the back. If you use crontab, you can reduce cpu usage as python interpreter only ran when crontab told it to. By making some minor tweaks to the program that he shows, you can reap better results. 
     
 I would recommend watching the youtube video and using crontab for best results. I didn't have time to make a simplified version of his code with crontab so decided to leave it as a suggestion.
+
+All The Best
