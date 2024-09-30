@@ -1,4 +1,4 @@
-# zoom-auto-join-meeting
+# Zoom-auto-join-meeting
 This repository contains the tools and steps needed to automate zoom to automatically join a zoom meetings using the browser with crontab as its scheduler
 (If you want to directly join meetings without the browser involved, scroll to the bottom)
 
